@@ -20,7 +20,13 @@
 
 #### Storage 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6600?style=for-the-badge&logo=bunnycdn&logoColor=white)](https://bunny.net/)
+## Deployment
+
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy)
+
+[![Deploy to Vercel](https://img.shields.io/badge/Deploy%20to-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/your-repo-name)
+
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy?repo=https://github.com/yourusername/your-repo-name)
 ---
 
 #### Find me
