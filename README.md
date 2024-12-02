@@ -1,5 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusmcg1&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcg1&theme=tokyonight&layout=compact)](https://github.com/angelica-shigematsu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcg1&theme=tokyonight&layout=compact)](https://github.com/mateusmcg1/github-readme-stats)
 ---
 
 #### Front end
