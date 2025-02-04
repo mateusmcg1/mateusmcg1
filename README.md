@@ -1,6 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmcg1&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusmcg1&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcg1&theme=tokyonight&layout=compact)](https://github.com/mateusmcg1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmcg1&show_icons=true&theme=radical)
 ---
 
 #### Front end
