@@ -1,4 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusmcg1&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmcg1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmcg1&theme=tokyonight&layout=compact)](https://github.com/mateusmcg1)
 ---
 
